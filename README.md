@@ -17,3 +17,7 @@ Extends the DOM to add the following methods :
 
 - HTMLElement.getSomeElementsByClassName()
 - HTMLElement.getSomeElementByClassName()
+
+---
+
+Doc needed !
