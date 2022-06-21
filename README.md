@@ -1,6 +1,6 @@
 # some.js
 
-Extends the DOM to add the following methods :
+**Extends the DOM to add the following methods :**
 
 #
 
@@ -48,4 +48,4 @@ Returns `n` random elements from the array
 
 ---
 
-Doc needed !
+Doc completion needed !
