@@ -2,8 +2,8 @@
 
 Extends the DOM to add the following methods :
 
-- Array.someElement()
-- Array.someElements()
+### Array.someElement()
+## Array.someElements()
 
 - Array.forSome()
  
