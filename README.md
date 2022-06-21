@@ -3,20 +3,20 @@
 Extends the DOM to add the following methods :
 
 ### Array.someElement()
-## Array.someElements()
+### Array.someElements()
 
-- Array.forSome()
+### Array.forSome()
  
-- HTMLElement.getSomeElement()
-- HTMLElement.getSomeElements()
+### HTMLElement.getSomeElement()
+### HTMLElement.getSomeElements()
  
-- HTMLElement.querySelectorSome()
+### HTMLElement.querySelectorSome()
  
-- HTMLElement.getSomeElementsByTagName()
-- HTMLElement.getSomeElementByTagName()
+### HTMLElement.getSomeElementsByTagName()
+### HTMLElement.getSomeElementByTagName()
 
-- HTMLElement.getSomeElementsByClassName()
-- HTMLElement.getSomeElementByClassName()
+### HTMLElement.getSomeElementsByClassName()
+### HTMLElement.getSomeElementByClassName()
 
 ---
 
